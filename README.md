@@ -1,4 +1,4 @@
-# Melkey — Talent Sourcer | Sidechain
+## Melkey — Talent Sourcer | Sidechain
 *The talent network for financial infrastructure engineering.*
 
 Hiring engineers across:
