@@ -3,13 +3,17 @@
 
 Sourcing engineers across:
 
-![Web3](https://img.shields.io/badge/Web3-Recruiting-blue?style=flat-square)
-![Blockchain](https://img.shields.io/badge/Blockchain-Infrastructure-orange?style=flat-square)
-![DeFi](https://img.shields.io/badge/DeFi-Protocol-purple?style=flat-square)
-![Rust](https://img.shields.io/badge/Rust-Engineering-red?style=flat-square)
-![Go](https://img.shields.io/badge/Go-Backend-cyan?style=flat-square)
-![DevOps](https://img.shields.io/badge/DevOps-Infrastructure-lightgrey?style=flat-square)
-![Security](https://img.shields.io/badge/Security-Engineering-green?style=flat-square)
+![Web3](https://img.shields.io/badge/Web3-blue?style=flat-square)
+![Blockchain](https://img.shields.io/badge/Blockchain-orange?style=flat-square)
+![Crypto](https://img.shields.io/badge/Crypto-yellow?style=flat-square)
+![Fintech](https://img.shields.io/badge/Fintech-teal?style=flat-square)
+![Security](https://img.shields.io/badge/Security-green?style=flat-square)
+![DevOps](https://img.shields.io/badge/DevOps-lightgrey?style=flat-square)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-grey?style=flat-square)
+![Protocol](https://img.shields.io/badge/Protocol-purple?style=flat-square)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square)
+![Rust](https://img.shields.io/badge/Rust-red?style=flat-square)
+![Go](https://img.shields.io/badge/Go-cyan?style=flat-square)
 
 
 ---
