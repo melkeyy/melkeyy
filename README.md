@@ -35,7 +35,7 @@ I recruit for crypto-native teams building financial infrastructure — Bitcoin 
 
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Melkey-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Melkey-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melkeyy/)
 [![Email](https://img.shields.io/badge/Email-melkey@sidechain.so-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:melkey@sidechain.so)
 [![Telegram](https://img.shields.io/badge/Telegram-@melkeyy-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/melkeyy)
 [![Twitter](https://img.shields.io/badge/Twitter-@melkxy-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/melkxy)
