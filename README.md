@@ -1,26 +1,43 @@
+# Melkey — Talent Sourcer | Sidechain
+*The talent network for financial infrastructure engineering.*
 
-# Hey, I'm Melkey 👋
+Sourcing engineers across:
 
-I'm a Web3 recruiter at [Sidechain](https://sidechain.so) — a crypto-native talent network connecting top engineers with the best teams in DeFi, Bitcoin infrastructure, and Web3.
-
----
-
-## 🔍 We're hiring
-
-I work with some of the most exciting teams in the space right now. If you're an engineer open to new opportunities — or just curious — I'd love to connect.
-
-**Open roles include:**
-- Senior DevOps / Infrastructure Engineers
-- Backend Engineers (Rust, Go, TypeScript)
-- Security Engineers
-
+![Web3](https://img.shields.io/badge/Web3-Recruiting-blue?style=flat-square)
+![Blockchain](https://img.shields.io/badge/Blockchain-Infrastructure-orange?style=flat-square)
+![DeFi](https://img.shields.io/badge/DeFi-Protocol-purple?style=flat-square)
+![Rust](https://img.shields.io/badge/Rust-Engineering-red?style=flat-square)
+![Go](https://img.shields.io/badge/Go-Backend-cyan?style=flat-square)
+![DevOps](https://img.shields.io/badge/DevOps-Infrastructure-lightgrey?style=flat-square)
+![Security](https://img.shields.io/badge/Security-Engineering-green?style=flat-square)
 
 ---
 
-## 📬 Get in touch
+## 👋 About Me
 
-- **Email:** melkey@sidechain.so
-- **Telegram:** [@melkeyy](https://t.me/melkeyy)
-- **LinkedIn:** [linkedin.com/in/melkey](https://linkedin.com/in/melkey)
+I recruit for crypto-native teams building financial infrastructure — Bitcoin staking, DeFi protocols, and next-gen trading systems. If you're open to opportunities, I'd love to connect.
 
 ---
+
+## 🔍 Open Roles
+
+| Role | Location |
+|------|----------|
+| 🔐 Security Engineer | Remote |
+| ⚙️ DevOps Engineer | Remote |
+| 🚀 Staff Backend Engineer | San Francisco (onsite) |
+| 💻 Backend Engineer | San Francisco (onsite) |
+| 🔗 DeFi Integration Engineer | Paris (onsite) |
+
+👉 [Join our talent network to get matched with upcoming roles](https://sidechain.so/join)
+
+---
+
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Melkey-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-melkey@sidechain.so-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:melkey@sidechain.so)
+[![Telegram](https://img.shields.io/badge/Telegram-@melkeyy-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/melkeyy)
+[![Twitter](https://img.shields.io/badge/Twitter-@melkxy-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/melkxy)
+
+Let's talk — whether you're actively looking or just open to hearing what's out there.
