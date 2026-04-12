@@ -1,7 +1,7 @@
 # Melkey — Talent Sourcer | Sidechain
 *The talent network for financial infrastructure engineering.*
 
-Sourcing engineers across:
+Hiring engineers across:
 
 ![Web3](https://img.shields.io/badge/Web3-blue?style=flat-square)
 ![Blockchain](https://img.shields.io/badge/Blockchain-orange?style=flat-square)
