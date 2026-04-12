@@ -1,4 +1,4 @@
-# We're hiring
+
 # Hey, I'm Melkey 👋
 
 I'm a Web3 recruiter at [Sidechain](https://sidechain.so) — a crypto-native talent network connecting top engineers with the best teams in DeFi, Bitcoin infrastructure, and Web3.
