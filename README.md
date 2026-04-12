@@ -11,11 +11,6 @@ Sourcing engineers across:
 ![DevOps](https://img.shields.io/badge/DevOps-Infrastructure-lightgrey?style=flat-square)
 ![Security](https://img.shields.io/badge/Security-Engineering-green?style=flat-square)
 
----
-
-## 👋 About Me
-
-I recruit for crypto-native teams building financial infrastructure — Bitcoin staking, DeFi protocols, and next-gen trading systems. If you're open to opportunities, I'd love to connect.
 
 ---
 
