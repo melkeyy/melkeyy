@@ -24,8 +24,9 @@ Sourcing engineers across:
 |------|----------|
 | 🔐 Security Engineer | Remote |
 | ⚙️ DevOps Engineer | Remote |
-| 🚀 Staff Backend Engineer | San Francisco (onsite) |
-| 💻 Backend Engineer | San Francisco (onsite) |
+| 📊 Fintech Engineering Lead | SF, CA (onsite) |
+| 🚀 Staff Backend Engineer | SF, CA (onsite) |
+| 💻 Backend Engineer | SF, CA (onsite) |
 | 🔗 DeFi Integration Engineer | Paris (onsite) |
 
 👉 [Join our talent network to get matched with upcoming roles](https://sidechain.so/join)
