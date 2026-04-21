@@ -22,6 +22,7 @@ Hiring engineers across:
 
 | Role | Location |
 |------|----------|
+| ⚙️ Founding Engineer - Rust (Solana) | Remote |
 | 🔐 Security Engineer | Remote |
 | ⚙️ DevOps Engineer | Remote |
 | 📊 Fintech Engineering Lead | SF, CA (onsite) |
