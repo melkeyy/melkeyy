@@ -41,4 +41,4 @@ Hiring engineers across:
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/melkeyy)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/melkxy)
 
-Let's talk — whether you're actively looking or just open to hearing what's out there.
+Let's chat — whether you're actively looking or just open to hearing what's out there.
