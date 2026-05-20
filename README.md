@@ -22,6 +22,7 @@ Hiring engineers across:
 
 | Role | Location |
 |------|----------|
+| ⚙️ Founding Backend Engineer (Retail trading app)  | SF, onsite |
 | ⚙️ Founding Engineer - Rust (Solana) | Remote |
 | 🔐 Security Engineer | Remote |
 | ⚙️ DevOps Engineer | Remote |
